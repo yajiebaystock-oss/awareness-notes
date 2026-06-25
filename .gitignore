@@ -1,0 +1,40 @@
+# Obsidian
+.obsidian/
+.trash/
+.DS_Store
+
+# OS
+Thumbs.db
+*.swp
+*.swo
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+ehthumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Lock files (optional)
+# package-lock.json
+# yarn.lock
+
+# Environment files
+.env
+.env.local
