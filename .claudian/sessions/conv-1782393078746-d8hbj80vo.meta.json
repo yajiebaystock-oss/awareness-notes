@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782393078746-d8hbj80vo",
+  "providerId": "claude",
+  "title": "Fix Git connection issue",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782393078748,
+  "updatedAt": 1782393873456,
+  "lastResponseAt": 1782393873456,
+  "sessionId": "5b87507e-9972-4fe3-bdff-c9dbe188302b",
+  "providerState": {
+    "providerSessionId": "5b87507e-9972-4fe3-bdff-c9dbe188302b"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 1563,
+    "cacheReadInputTokens": 42150,
+    "contextWindow": 200000,
+    "contextTokens": 43723,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}
