@@ -1,0 +1,310 @@
+{
+  "summary": {
+    "total_files": 42,
+    "completed": 39,
+    "template_removed": 39,
+    "with_content": 41,
+    "total_chars": 135575,
+    "avg_chars": 3227,
+    "status_counts": {
+      "テンプレート残": 3,
+      "完了": 39
+    }
+  },
+  "files": [
+    {
+      "filename": "01_42_目指すのは自分の幸せ ～幸せへの矢印～.md",
+      "char_count": 324,
+      "has_template": true,
+      "has_content": false,
+      "status": "テンプレート残"
+    },
+    {
+      "filename": "02_42_TEAM_T2の目的と_T2Sの目的.md",
+      "char_count": 4384,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "03_42_目的とは何か？目的を明確にする価値.md",
+      "char_count": 2020,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "04_42_脳科学から目的の重要性を学ぶ_～RASの役割～.md",
+      "char_count": 2995,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "05_42_目的・目標・ビジョン_目的を明確にする6つの理由.md",
+      "char_count": 5599,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "06_42_効果的に学ぶために_～学ぶ目的とは～.md",
+      "char_count": 9670,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "07_42_パラダイム_～人生の変化を起こす秘訣～.md",
+      "char_count": 9970,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "08_42_人生脚本とは？_～事実は一つ、解釈は無限大～.md",
+      "char_count": 7581,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "09_42_コンフォートゾーン ～モチベーションとは？～.md",
+      "char_count": 1632,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "10_42_風の時代 ～時代の変化に対応する～.md",
+      "char_count": 1827,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "11_42_幸せの定義.md",
+      "char_count": 1729,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "12_42_不平不満が起こる3つの原因 四苦八苦とは？.md",
+      "char_count": 1920,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "13_42_比較が起こる理由 願望実現に必要なこと.md",
+      "char_count": 2125,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "14_42_八正道と四聖諦 ～仏教の基礎的な心理～.md",
+      "char_count": 2054,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "15_42_幸せの段階と 成長のステップ.md",
+      "char_count": 2083,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "16_42_心理学から見た幸せ 幸福感を感じる欲求の8ステップ.md",
+      "char_count": 2890,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "17_42_感情とは？ 感情が必要な理由.md",
+      "char_count": 3180,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "18_42_感情と情動の比較 感情が生まれるプロセス.md",
+      "char_count": 3419,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "19_42_感情のコントロール方法 幸福と快楽の違い.md",
+      "char_count": 3414,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "20_42_脳科学から見た幸せ ～幸せに影響する脳内物質～.md",
+      "char_count": 3843,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "21_42_量子力学から見た幸せ 素粒子の不思議な性質.md",
+      "char_count": 3221,
+      "has_template": true,
+      "has_content": true,
+      "status": "テンプレート残"
+    },
+    {
+      "filename": "22_42_コンパスシートと幸せ ～自分の幸せに向かうために～.md",
+      "char_count": 2625,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "23_42_素粒子の性質 ～フォトン、振動～.md",
+      "char_count": 2749,
+      "has_template": true,
+      "has_content": true,
+      "status": "テンプレート残"
+    },
+    {
+      "filename": "24_42_言葉の重要性 ～良い口ぐせの5つのルール～.md",
+      "char_count": 2660,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "25_42_パラレルワールド ～今の波動で10年後が決まる～.md",
+      "char_count": 3040,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "26_42_感謝がもたらす威力 感謝のメリット.md",
+      "char_count": 2570,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "27_42_幸せの性質 ～プロセスの幸せと結果の幸せ～.md",
+      "char_count": 3089,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "28_42_人が死ぬ前に 後悔する10の事.md",
+      "char_count": 3072,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "29_42_幸せの性質 幸せの攻略法.md",
+      "char_count": 2480,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "30_42_法則・原則とは 10個の目標達成能力.md",
+      "char_count": 1760,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "31_42_成功の方程式 信頼の方程式.md",
+      "char_count": 3372,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "32_42_無限大の原則 ～素粒子の世界～.md",
+      "char_count": 1554,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "33_42_潜在意識の原則 ～人の意識の3層構造～.md",
+      "char_count": 3671,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "34_42_潜在意識の原則 ～意識レベルの17段階～.md",
+      "char_count": 3503,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "35_42_顕在意識と潜在意識 ～無意識の力～.md",
+      "char_count": 1390,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "36_42_思考と現実 ～信念が人生を作る～.md",
+      "char_count": 3507,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "37_42_アファメーション ～言葉の力を活用する～.md",
+      "char_count": 1418,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "38_42_ビジュアライゼーション ～理想の人生を描く～.md",
+      "char_count": 3423,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "39_42_目標設定と達成 ～SMART原則～.md",
+      "char_count": 3402,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "40_42_習慣形成 ～21日の法則～.md",
+      "char_count": 3134,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "41_42_モチベーション ～内発的動機付けと外発的動機付け～.md",
+      "char_count": 3651,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    },
+    {
+      "filename": "42_42_幸せと成功へのまとめ ～実践的ステップ～.md",
+      "char_count": 3625,
+      "has_template": false,
+      "has_content": true,
+      "status": "完了"
+    }
+  ]
+}
