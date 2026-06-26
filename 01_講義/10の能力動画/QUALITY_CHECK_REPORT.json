@@ -1,0 +1,479 @@
+{
+  "status": "品質管理チェック完了",
+  "timestamp": "2026-06-26",
+  "total_files": 12,
+  "overall_score": 88,
+  "pass_count": 8,
+  "warning_count": 4,
+  "fail_count": 0,
+  "files": [
+    {
+      "file": "【10の能力動画】タイミングの原則.md",
+      "title": "タイミングの原則",
+      "checks": {
+        "frontmatter": {
+          "title_exists": false,
+          "date_exists": true,
+          "source_url_valid": true,
+          "category_correct": false,
+          "tags_sufficient": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count_valid": true,
+          "no_placeholder": true
+        },
+        "points": {
+          "exists": true,
+          "count_sufficient": true,
+          "no_placeholder": true
+        },
+        "transcription": {
+          "exists": true,
+          "no_placeholder": true,
+          "char_count_sufficient": true,
+          "quality_valid": true
+        },
+        "consistency": {
+          "filename_matches_title": true,
+          "category_consistent": true,
+          "source_url_has_id": true,
+          "tags_relevant": true,
+          "no_broken_links": true
+        }
+      },
+      "issues": [],
+      "score": 90
+    },
+    {
+      "file": "【10の能力動画】バランスの原則.md",
+      "title": "バランスの原則",
+      "checks": {
+        "frontmatter": {
+          "title_exists": false,
+          "date_exists": true,
+          "source_url_valid": true,
+          "category_correct": false,
+          "tags_sufficient": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count_valid": true,
+          "no_placeholder": true
+        },
+        "points": {
+          "exists": true,
+          "count_sufficient": true,
+          "no_placeholder": true
+        },
+        "transcription": {
+          "exists": true,
+          "no_placeholder": true,
+          "char_count_sufficient": true,
+          "quality_valid": true
+        },
+        "consistency": {
+          "filename_matches_title": true,
+          "category_consistent": true,
+          "source_url_has_id": true,
+          "tags_relevant": true,
+          "no_broken_links": true
+        }
+      },
+      "issues": [],
+      "score": 90
+    },
+    {
+      "file": "【10の能力動画】原因と結果の原則.md",
+      "title": "原因と結果の原則",
+      "checks": {
+        "frontmatter": {
+          "title_exists": false,
+          "date_exists": true,
+          "source_url_valid": true,
+          "category_correct": false,
+          "tags_sufficient": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count_valid": true,
+          "no_placeholder": true
+        },
+        "points": {
+          "exists": true,
+          "count_sufficient": false,
+          "no_placeholder": true
+        },
+        "transcription": {
+          "exists": true,
+          "no_placeholder": true,
+          "char_count_sufficient": true,
+          "quality_valid": true
+        },
+        "consistency": {
+          "filename_matches_title": true,
+          "category_consistent": true,
+          "source_url_has_id": true,
+          "tags_relevant": true,
+          "no_broken_links": true
+        }
+      },
+      "issues": [
+        "⚠️  ポイント数が不足: 0個（7以上必要）"
+      ],
+      "score": 85
+    },
+    {
+      "file": "【10の能力動画】思考の原則.md",
+      "title": "思考の原則",
+      "checks": {
+        "frontmatter": {
+          "title_exists": true,
+          "date_exists": true,
+          "source_url_valid": true,
+          "category_correct": false,
+          "tags_sufficient": false
+        },
+        "summary": {
+          "exists": true,
+          "char_count_valid": true,
+          "no_placeholder": true
+        },
+        "points": {
+          "exists": true,
+          "count_sufficient": true,
+          "no_placeholder": true
+        },
+        "transcription": {
+          "exists": true,
+          "no_placeholder": true,
+          "char_count_sufficient": true,
+          "quality_valid": true
+        },
+        "consistency": {
+          "filename_matches_title": true,
+          "category_consistent": true,
+          "source_url_has_id": true,
+          "tags_relevant": true,
+          "no_broken_links": true
+        }
+      },
+      "issues": [
+        "⚠️  tags が不足: 3個"
+      ],
+      "score": 90
+    },
+    {
+      "file": "【10の能力動画】成長と変化の原則.md",
+      "title": "成長と変化の原則",
+      "checks": {
+        "frontmatter": {
+          "title_exists": true,
+          "date_exists": true,
+          "source_url_valid": true,
+          "category_correct": false,
+          "tags_sufficient": false
+        },
+        "summary": {
+          "exists": true,
+          "char_count_valid": true,
+          "no_placeholder": true
+        },
+        "points": {
+          "exists": true,
+          "count_sufficient": true,
+          "no_placeholder": true
+        },
+        "transcription": {
+          "exists": true,
+          "no_placeholder": true,
+          "char_count_sufficient": true,
+          "quality_valid": true
+        },
+        "consistency": {
+          "filename_matches_title": true,
+          "category_consistent": true,
+          "source_url_has_id": true,
+          "tags_relevant": true,
+          "no_broken_links": true
+        }
+      },
+      "issues": [
+        "⚠️  tags が不足: 3個"
+      ],
+      "score": 90
+    },
+    {
+      "file": "【10の能力動画】振動と波動の原則～素粒子は波であり粒である～.md",
+      "title": "振動と波動の原則～素粒子は波であり粒である～",
+      "checks": {
+        "frontmatter": {
+          "title_exists": false,
+          "date_exists": true,
+          "source_url_valid": true,
+          "category_correct": false,
+          "tags_sufficient": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count_valid": true,
+          "no_placeholder": true
+        },
+        "points": {
+          "exists": true,
+          "count_sufficient": true,
+          "no_placeholder": true
+        },
+        "transcription": {
+          "exists": true,
+          "no_placeholder": true,
+          "char_count_sufficient": true,
+          "quality_valid": true
+        },
+        "consistency": {
+          "filename_matches_title": true,
+          "category_consistent": true,
+          "source_url_has_id": true,
+          "tags_relevant": true,
+          "no_broken_links": true
+        }
+      },
+      "issues": [],
+      "score": 90
+    },
+    {
+      "file": "【10の能力動画】法則・原則の定義～価値観と原則の違い～.md",
+      "title": "法則・原則の定義～価値観と原則の違い～",
+      "checks": {
+        "frontmatter": {
+          "title_exists": false,
+          "date_exists": true,
+          "source_url_valid": true,
+          "category_correct": false,
+          "tags_sufficient": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count_valid": true,
+          "no_placeholder": true
+        },
+        "points": {
+          "exists": true,
+          "count_sufficient": true,
+          "no_placeholder": true
+        },
+        "transcription": {
+          "exists": true,
+          "no_placeholder": true,
+          "char_count_sufficient": true,
+          "quality_valid": true
+        },
+        "consistency": {
+          "filename_matches_title": true,
+          "category_consistent": true,
+          "source_url_has_id": true,
+          "tags_relevant": true,
+          "no_broken_links": true
+        }
+      },
+      "issues": [],
+      "score": 90
+    },
+    {
+      "file": "【10の能力動画】潜在意識の原則.md",
+      "title": "潜在意識の原則",
+      "checks": {
+        "frontmatter": {
+          "title_exists": false,
+          "date_exists": true,
+          "source_url_valid": true,
+          "category_correct": false,
+          "tags_sufficient": false
+        },
+        "summary": {
+          "exists": true,
+          "char_count_valid": true,
+          "no_placeholder": true
+        },
+        "points": {
+          "exists": true,
+          "count_sufficient": true,
+          "no_placeholder": true
+        },
+        "transcription": {
+          "exists": true,
+          "no_placeholder": true,
+          "char_count_sufficient": true,
+          "quality_valid": true
+        },
+        "consistency": {
+          "filename_matches_title": true,
+          "category_consistent": true,
+          "source_url_has_id": true,
+          "tags_relevant": true,
+          "no_broken_links": true
+        }
+      },
+      "issues": [
+        "⚠️  tags が不足: 4個"
+      ],
+      "score": 85
+    },
+    {
+      "file": "【10の能力動画】無限大の原則.md",
+      "title": "無限大の原則",
+      "checks": {
+        "frontmatter": {
+          "title_exists": false,
+          "date_exists": true,
+          "source_url_valid": true,
+          "category_correct": false,
+          "tags_sufficient": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count_valid": true,
+          "no_placeholder": true
+        },
+        "points": {
+          "exists": true,
+          "count_sufficient": true,
+          "no_placeholder": true
+        },
+        "transcription": {
+          "exists": true,
+          "no_placeholder": true,
+          "char_count_sufficient": true,
+          "quality_valid": true
+        },
+        "consistency": {
+          "filename_matches_title": true,
+          "category_consistent": true,
+          "source_url_has_id": true,
+          "tags_relevant": true,
+          "no_broken_links": true
+        }
+      },
+      "issues": [],
+      "score": 90
+    },
+    {
+      "file": "【10の能力動画】繰の原則.md",
+      "title": "繰の原則",
+      "checks": {
+        "frontmatter": {
+          "title_exists": false,
+          "date_exists": true,
+          "source_url_valid": true,
+          "category_correct": false,
+          "tags_sufficient": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count_valid": true,
+          "no_placeholder": true
+        },
+        "points": {
+          "exists": true,
+          "count_sufficient": true,
+          "no_placeholder": true
+        },
+        "transcription": {
+          "exists": true,
+          "no_placeholder": true,
+          "char_count_sufficient": true,
+          "quality_valid": true
+        },
+        "consistency": {
+          "filename_matches_title": true,
+          "category_consistent": true,
+          "source_url_has_id": true,
+          "tags_relevant": true,
+          "no_broken_links": true
+        }
+      },
+      "issues": [],
+      "score": 90
+    },
+    {
+      "file": "【10の能力動画】表裏一体の原則.md",
+      "title": "表裏一体の原則",
+      "checks": {
+        "frontmatter": {
+          "title_exists": false,
+          "date_exists": true,
+          "source_url_valid": true,
+          "category_correct": false,
+          "tags_sufficient": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count_valid": true,
+          "no_placeholder": true
+        },
+        "points": {
+          "exists": true,
+          "count_sufficient": false,
+          "no_placeholder": true
+        },
+        "transcription": {
+          "exists": true,
+          "no_placeholder": true,
+          "char_count_sufficient": true,
+          "quality_valid": true
+        },
+        "consistency": {
+          "filename_matches_title": true,
+          "category_consistent": true,
+          "source_url_has_id": true,
+          "tags_relevant": true,
+          "no_broken_links": true
+        }
+      },
+      "issues": [
+        "⚠️  ポイント数が不足: 0個（7以上必要）"
+      ],
+      "score": 85
+    },
+    {
+      "file": "【10の能力動画】道徳（決断）の原則.md",
+      "title": "道徳（決断）の原則",
+      "checks": {
+        "frontmatter": {
+          "title_exists": false,
+          "date_exists": true,
+          "source_url_valid": true,
+          "category_correct": false,
+          "tags_sufficient": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count_valid": true,
+          "no_placeholder": true
+        },
+        "points": {
+          "exists": true,
+          "count_sufficient": false,
+          "no_placeholder": true
+        },
+        "transcription": {
+          "exists": true,
+          "no_placeholder": true,
+          "char_count_sufficient": true,
+          "quality_valid": true
+        },
+        "consistency": {
+          "filename_matches_title": true,
+          "category_consistent": true,
+          "source_url_has_id": true,
+          "tags_relevant": true,
+          "no_broken_links": true
+        }
+      },
+      "issues": [
+        "⚠️  ポイント数が不足: 0個（7以上必要）"
+      ],
+      "score": 85
+    }
+  ]
+}
