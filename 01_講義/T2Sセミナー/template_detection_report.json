@@ -1,0 +1,804 @@
+{
+  "files_scanned": 48,
+  "files_with_templates": 28,
+  "critical_issues": 4,
+  "warnings": 2,
+  "file_details": [
+    {
+      "file": "01_42_目指すのは自分の幸せ ～幸せへの矢印～.md",
+      "filepath": "01_講義\\T2Sセミナー\\01_42_目指すのは自分の幸せ ～幸せへの矢印～.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 1634,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.643,
+        "recommendation": "若干テンプレート傾向（スコア: 0.64） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "02_42_TEAM_T2の目的と_T2Sの目的.md",
+      "filepath": "01_講義\\T2Sセミナー\\02_42_TEAM_T2の目的と_T2Sの目的.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 4384,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.799,
+        "recommendation": "実テキスト判定（スコア: 0.80） → OK"
+      }
+    },
+    {
+      "file": "03_42_目的とは何か？目的を明確にする価値.md",
+      "filepath": "01_講義\\T2Sセミナー\\03_42_目的とは何か？目的を明確にする価値.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 2020,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.696,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "04_42_脳科学から目的の重要性を学ぶ_～RASの役割～.md",
+      "filepath": "01_講義\\T2Sセミナー\\04_42_脳科学から目的の重要性を学ぶ_～RASの役割～.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 2995,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.7,
+        "recommendation": "実テキスト判定（スコア: 0.70） → OK"
+      }
+    },
+    {
+      "file": "05_42_目的・目標・ビジョン_目的を明確にする6つの理由.md",
+      "filepath": "01_講義\\T2Sセミナー\\05_42_目的・目標・ビジョン_目的を明確にする6つの理由.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 5599,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.8,
+        "recommendation": "実テキスト判定（スコア: 0.80） → OK"
+      }
+    },
+    {
+      "file": "06_42_効果的に学ぶために_～学ぶ目的とは～.md",
+      "filepath": "01_講義\\T2Sセミナー\\06_42_効果的に学ぶために_～学ぶ目的とは～.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 9670,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.795,
+        "recommendation": "実テキスト判定（スコア: 0.80） → OK"
+      }
+    },
+    {
+      "file": "07_42_パラダイム_～人生の変化を起こす秘訣～.md",
+      "filepath": "01_講義\\T2Sセミナー\\07_42_パラダイム_～人生の変化を起こす秘訣～.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 9970,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 1.0,
+        "recommendation": "実テキスト判定（スコア: 1.00） → OK"
+      }
+    },
+    {
+      "file": "08_42_人生脚本とは？_～事実は一つ、解釈は無限大～.md",
+      "filepath": "01_講義\\T2Sセミナー\\08_42_人生脚本とは？_～事実は一つ、解釈は無限大～.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 7581,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.699,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "09_42_コンフォートゾーン ～モチベーションとは？～.md",
+      "filepath": "01_講義\\T2Sセミナー\\09_42_コンフォートゾーン ～モチベーションとは？～.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 1632,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.94,
+        "recommendation": "実テキスト判定（スコア: 0.94） → OK"
+      }
+    },
+    {
+      "file": "10_42_風の時代 ～時代の変化に対応する～.md",
+      "filepath": "01_講義\\T2Sセミナー\\10_42_風の時代 ～時代の変化に対応する～.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 1827,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.97,
+        "recommendation": "実テキスト判定（スコア: 0.97） → OK"
+      }
+    },
+    {
+      "file": "11_42_幸せの定義.md",
+      "filepath": "01_講義\\T2Sセミナー\\11_42_幸せの定義.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 1729,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.757,
+        "recommendation": "実テキスト判定（スコア: 0.76） → OK"
+      }
+    },
+    {
+      "file": "12_42_不平不満が起こる3つの原因 四苦八苦とは？.md",
+      "filepath": "01_講義\\T2Sセミナー\\12_42_不平不満が起こる3つの原因 四苦八苦とは？.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 1920,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.686,
+        "recommendation": "若干テンプレート傾向（スコア: 0.69） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "13_42_比較が起こる理由 願望実現に必要なこと.md",
+      "filepath": "01_講義\\T2Sセミナー\\13_42_比較が起こる理由 願望実現に必要なこと.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 2125,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.698,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "14_42_八正道と四聖諦 ～仏教の基礎的な心理～.md",
+      "filepath": "01_講義\\T2Sセミナー\\14_42_八正道と四聖諦 ～仏教の基礎的な心理～.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 2054,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.698,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "15_42_幸せの段階と 成長のステップ.md",
+      "filepath": "01_講義\\T2Sセミナー\\15_42_幸せの段階と 成長のステップ.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 2083,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.697,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "16_42_心理学から見た幸せ 幸福感を感じる欲求の8ステップ.md",
+      "filepath": "01_講義\\T2Sセミナー\\16_42_心理学から見た幸せ 幸福感を感じる欲求の8ステップ.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 2890,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.697,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "17_42_感情とは？ 感情が必要な理由.md",
+      "filepath": "01_講義\\T2Sセミナー\\17_42_感情とは？ 感情が必要な理由.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 3180,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.694,
+        "recommendation": "若干テンプレート傾向（スコア: 0.69） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "18_42_感情と情動の比較 感情が生まれるプロセス.md",
+      "filepath": "01_講義\\T2Sセミナー\\18_42_感情と情動の比較 感情が生まれるプロセス.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 3419,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.697,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "19_42_感情のコントロール方法 幸福と快楽の違い.md",
+      "filepath": "01_講義\\T2Sセミナー\\19_42_感情のコントロール方法 幸福と快楽の違い.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 3414,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.696,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "20_42_脳科学から見た幸せ ～幸せに影響する脳内物質～.md",
+      "filepath": "01_講義\\T2Sセミナー\\20_42_脳科学から見た幸せ ～幸せに影響する脳内物質～.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 3843,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.697,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "21_42_量子力学から見た幸せ 素粒子の不思議な性質.md",
+      "filepath": "01_講義\\T2Sセミナー\\21_42_量子力学から見た幸せ 素粒子の不思議な性質.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 3221,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.695,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "22_42_コンパスシートと幸せ ～自分の幸せに向かうために～.md",
+      "filepath": "01_講義\\T2Sセミナー\\22_42_コンパスシートと幸せ ～自分の幸せに向かうために～.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 2625,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.697,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "23_42_素粒子の性質 ～フォトン、振動～.md",
+      "filepath": "01_講義\\T2Sセミナー\\23_42_素粒子の性質 ～フォトン、振動～.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 2749,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.697,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "24_42_言葉の重要性 ～良い口ぐせの5つのルール～.md",
+      "filepath": "01_講義\\T2Sセミナー\\24_42_言葉の重要性 ～良い口ぐせの5つのルール～.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 2660,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.699,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "25_42_パラレルワールド ～今の波動で10年後が決まる～.md",
+      "filepath": "01_講義\\T2Sセミナー\\25_42_パラレルワールド ～今の波動で10年後が決まる～.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 3040,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.795,
+        "recommendation": "実テキスト判定（スコア: 0.80） → OK"
+      }
+    },
+    {
+      "file": "26_42_感謝がもたらす威力 感謝のメリット.md",
+      "filepath": "01_講義\\T2Sセミナー\\26_42_感謝がもたらす威力 感謝のメリット.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 2570,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.696,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "27_42_幸せの性質 ～プロセスの幸せと結果の幸せ～.md",
+      "filepath": "01_講義\\T2Sセミナー\\27_42_幸せの性質 ～プロセスの幸せと結果の幸せ～.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 3089,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.696,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "28_42_人が死ぬ前に 後悔する10の事.md",
+      "filepath": "01_講義\\T2Sセミナー\\28_42_人が死ぬ前に 後悔する10の事.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 3072,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.698,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "29_42_幸せの性質 幸せの攻略法.md",
+      "filepath": "01_講義\\T2Sセミナー\\29_42_幸せの性質 幸せの攻略法.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 2480,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.697,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "30_42_法則・原則とは 10個の目標達成能力.md",
+      "filepath": "01_講義\\T2Sセミナー\\30_42_法則・原則とは 10個の目標達成能力.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 1760,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.662,
+        "recommendation": "若干テンプレート傾向（スコア: 0.66） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "31_42_成功の方程式 信頼の方程式.md",
+      "filepath": "01_講義\\T2Sセミナー\\31_42_成功の方程式 信頼の方程式.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 3372,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.696,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "32_42_無限大の原則 ～素粒子の世界～.md",
+      "filepath": "01_講義\\T2Sセミナー\\32_42_無限大の原則 ～素粒子の世界～.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 1554,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.931,
+        "recommendation": "実テキスト判定（スコア: 0.93） → OK"
+      }
+    },
+    {
+      "file": "33_42_潜在意識の原則 ～人の意識の3層構造～.md",
+      "filepath": "01_講義\\T2Sセミナー\\33_42_潜在意識の原則 ～人の意識の3層構造～.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 3671,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.694,
+        "recommendation": "若干テンプレート傾向（スコア: 0.69） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "34_42_潜在意識の原則 ～意識レベルの17段階～.md",
+      "filepath": "01_講義\\T2Sセミナー\\34_42_潜在意識の原則 ～意識レベルの17段階～.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 3503,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.698,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "35_42_顕在意識と潜在意識 ～無意識の力～.md",
+      "filepath": "01_講義\\T2Sセミナー\\35_42_顕在意識と潜在意識 ～無意識の力～.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 1390,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.803,
+        "recommendation": "実テキスト判定（スコア: 0.80） → OK"
+      }
+    },
+    {
+      "file": "36_42_思考と現実 ～信念が人生を作る～.md",
+      "filepath": "01_講義\\T2Sセミナー\\36_42_思考と現実 ～信念が人生を作る～.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 3507,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.697,
+        "recommendation": "若干テンプレート傾向（スコア: 0.70） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "37_42_アファメーション ～言葉の力を活用する～.md",
+      "filepath": "01_講義\\T2Sセミナー\\37_42_アファメーション ～言葉の力を活用する～.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 1418,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.91,
+        "recommendation": "実テキスト判定（スコア: 0.91） → OK"
+      }
+    },
+    {
+      "file": "38_42_ビジュアライゼーション ～理想の人生を描く～.md",
+      "filepath": "01_講義\\T2Sセミナー\\38_42_ビジュアライゼーション ～理想の人生を描く～.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 3423,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.998,
+        "recommendation": "実テキスト判定（スコア: 1.00） → OK"
+      }
+    },
+    {
+      "file": "39_42_目標設定と達成 ～SMART原則～.md",
+      "filepath": "01_講義\\T2Sセミナー\\39_42_目標設定と達成 ～SMART原則～.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 3402,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.798,
+        "recommendation": "実テキスト判定（スコア: 0.80） → OK"
+      }
+    },
+    {
+      "file": "40_42_習慣形成 ～21日の法則～.md",
+      "filepath": "01_講義\\T2Sセミナー\\40_42_習慣形成 ～21日の法則～.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 3134,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.997,
+        "recommendation": "実テキスト判定（スコア: 1.00） → OK"
+      }
+    },
+    {
+      "file": "41_42_モチベーション ～内発的動機付けと外発的動機付け～.md",
+      "filepath": "01_講義\\T2Sセミナー\\41_42_モチベーション ～内発的動機付けと外発的動機付け～.md",
+      "status": "OK",
+      "transcription": {
+        "exists": true,
+        "length": 3651,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.998,
+        "recommendation": "実テキスト判定（スコア: 1.00） → OK"
+      }
+    },
+    {
+      "file": "42_42_幸せと成功へのまとめ ～実践的ステップ～.md",
+      "filepath": "01_講義\\T2Sセミナー\\42_42_幸せと成功へのまとめ ～実践的ステップ～.md",
+      "status": "CAUTION",
+      "transcription": {
+        "exists": true,
+        "length": 3625,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.695,
+        "recommendation": "若干テンプレート傾向（スコア: 0.69） → サンプル点検対象"
+      }
+    },
+    {
+      "file": "IMPLEMENTATION_CHECKLIST.md",
+      "filepath": "01_講義\\T2Sセミナー\\IMPLEMENTATION_CHECKLIST.md",
+      "status": "MISSING",
+      "transcription": {
+        "exists": false,
+        "length": 0,
+        "template_detection": null,
+        "uniqueness_score": 0.0,
+        "recommendation": "文字起こしセクションなし"
+      }
+    },
+    {
+      "file": "IMPLEMENTATION_PATTERNS.md",
+      "filepath": "01_講義\\T2Sセミナー\\IMPLEMENTATION_PATTERNS.md",
+      "status": "MISSING",
+      "transcription": {
+        "exists": false,
+        "length": 0,
+        "template_detection": null,
+        "uniqueness_score": 0.0,
+        "recommendation": "文字起こしセクションなし"
+      }
+    },
+    {
+      "file": "IMPLEMENTATION_PLAN.md",
+      "filepath": "01_講義\\T2Sセミナー\\IMPLEMENTATION_PLAN.md",
+      "status": "WARNING",
+      "transcription": {
+        "exists": true,
+        "length": 348,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.442,
+        "recommendation": "テンプレート可能性高い（スコア: 0.44） → 確認推奨"
+      }
+    },
+    {
+      "file": "README.md",
+      "filepath": "01_講義\\T2Sセミナー\\README.md",
+      "status": "MISSING",
+      "transcription": {
+        "exists": false,
+        "length": 0,
+        "template_detection": null,
+        "uniqueness_score": 0.0,
+        "recommendation": "文字起こしセクションなし"
+      }
+    },
+    {
+      "file": "REFERENCE_THEORIES.md",
+      "filepath": "01_講義\\T2Sセミナー\\REFERENCE_THEORIES.md",
+      "status": "MISSING",
+      "transcription": {
+        "exists": false,
+        "length": 0,
+        "template_detection": null,
+        "uniqueness_score": 0.0,
+        "recommendation": "文字起こしセクションなし"
+      }
+    },
+    {
+      "file": "STRATEGY_OVERVIEW.md",
+      "filepath": "01_講義\\T2Sセミナー\\STRATEGY_OVERVIEW.md",
+      "status": "WARNING",
+      "transcription": {
+        "exists": true,
+        "length": 315,
+        "template_detection": {
+          "matched_patterns": [],
+          "risk_level": "SAFE",
+          "template_probability": 0.0,
+          "confidence": 0.0
+        },
+        "uniqueness_score": 0.436,
+        "recommendation": "テンプレート可能性高い（スコア: 0.44） → 確認推奨"
+      }
+    }
+  ]
+}
