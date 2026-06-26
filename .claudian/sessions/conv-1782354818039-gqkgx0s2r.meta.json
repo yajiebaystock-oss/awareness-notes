@@ -4,8 +4,8 @@
   "title": "Distinguish between values and principles",
   "titleGenerationStatus": "success",
   "createdAt": 1782354818493,
-  "updatedAt": 1782459336152,
-  "lastResponseAt": 1782459336152,
+  "updatedAt": 1782459809208,
+  "lastResponseAt": 1782459809208,
   "sessionId": "81e325a1-58d2-456d-9721-1dc838bdbb69",
   "providerState": {
     "providerSessionId": "81e325a1-58d2-456d-9721-1dc838bdbb69",
@@ -6608,11 +6608,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 10,
-    "cacheCreationInputTokens": 712,
-    "cacheReadInputTokens": 137891,
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1760,
+    "cacheReadInputTokens": 156841,
     "contextWindow": 200000,
-    "contextTokens": 138613,
-    "percentage": 69
+    "contextTokens": 158609,
+    "percentage": 79,
+    "contextWindowIsAuthoritative": true
   }
 }
