@@ -1,0 +1,397 @@
+{
+  "status": "OK: Final verification complete",
+  "timestamp": "2026-06-26",
+  "total_files": 12,
+  "average_completion_score": 91,
+  "perfect_count": 0,
+  "good_count": 12,
+  "poor_count": 0,
+  "files": [
+    {
+      "title": "タイミングの原則",
+      "file": "【10の能力動画】タイミングの原則.md",
+      "checks": {
+        "frontmatter": {
+          "title": true,
+          "date": true,
+          "source_url": true,
+          "category": true,
+          "tags": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count": 207,
+          "meets_requirement": true,
+          "text_preview": "**「タイミングの原則」**\n\n本動画では、人生や仕事において成功するために必要な「タイミングの原則..."
+        },
+        "points": {
+          "exists": true,
+          "count": 8,
+          "meets_requirement": true
+        },
+        "transcription": {
+          "exists": true,
+          "is_placeholder": false,
+          "char_count": 499,
+          "meets_requirement": true
+        }
+      },
+      "completion_score": 91,
+      "issues": []
+    },
+    {
+      "title": "バランスの原則",
+      "file": "【10の能力動画】バランスの原則.md",
+      "checks": {
+        "frontmatter": {
+          "title": true,
+          "date": true,
+          "source_url": true,
+          "category": true,
+          "tags": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count": 179,
+          "meets_requirement": true,
+          "text_preview": "**「バランスの原則」**\n\n本動画では、人生や仕事において成功するために必要な「バランスの原則」に..."
+        },
+        "points": {
+          "exists": true,
+          "count": 7,
+          "meets_requirement": true
+        },
+        "transcription": {
+          "exists": true,
+          "is_placeholder": false,
+          "char_count": 506,
+          "meets_requirement": true
+        }
+      },
+      "completion_score": 91,
+      "issues": []
+    },
+    {
+      "title": "原因と結果の原則",
+      "file": "【10の能力動画】原因と結果の原則.md",
+      "checks": {
+        "frontmatter": {
+          "title": true,
+          "date": true,
+          "source_url": true,
+          "category": true,
+          "tags": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count": 245,
+          "meets_requirement": true,
+          "text_preview": "原因と結果の原則とは、あらゆる事象には必ず原因があり、その原因を作れば対応する結果が生じるという法則..."
+        },
+        "points": {
+          "exists": true,
+          "count": 7,
+          "meets_requirement": true
+        },
+        "transcription": {
+          "exists": true,
+          "is_placeholder": false,
+          "char_count": 2029,
+          "meets_requirement": true
+        }
+      },
+      "completion_score": 91,
+      "issues": []
+    },
+    {
+      "title": "思考の原則",
+      "file": "【10の能力動画】思考の原則.md",
+      "checks": {
+        "frontmatter": {
+          "title": true,
+          "date": true,
+          "source_url": true,
+          "category": true,
+          "tags": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count": 123,
+          "meets_requirement": true,
+          "text_preview": "要約:\n思考の原則とは、私たちの思考が現実の創造に直結するという基本的な法則です。思考という目に見え..."
+        },
+        "points": {
+          "exists": true,
+          "count": 7,
+          "meets_requirement": true
+        },
+        "transcription": {
+          "exists": true,
+          "is_placeholder": false,
+          "char_count": 497,
+          "meets_requirement": true
+        }
+      },
+      "completion_score": 91,
+      "issues": []
+    },
+    {
+      "title": "成長と変化の原則",
+      "file": "【10の能力動画】成長と変化の原則.md",
+      "checks": {
+        "frontmatter": {
+          "title": true,
+          "date": true,
+          "source_url": true,
+          "category": true,
+          "tags": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count": 107,
+          "meets_requirement": true,
+          "text_preview": "要約:\n成長と変化の原則は、人間の本質的な特性である継続的な変化と成長の法則です。静的な状態は存在せ..."
+        },
+        "points": {
+          "exists": true,
+          "count": 7,
+          "meets_requirement": true
+        },
+        "transcription": {
+          "exists": true,
+          "is_placeholder": false,
+          "char_count": 537,
+          "meets_requirement": true
+        }
+      },
+      "completion_score": 91,
+      "issues": []
+    },
+    {
+      "title": "振動と波動の原則～素粒子は波であり粒である～",
+      "file": "【10の能力動画】振動と波動の原則～素粒子は波であり粒である～.md",
+      "checks": {
+        "frontmatter": {
+          "title": true,
+          "date": true,
+          "source_url": true,
+          "category": true,
+          "tags": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count": 172,
+          "meets_requirement": true,
+          "text_preview": "**「振動と波動の原則～素粒子は波であり粒である～」**\n\n本動画では、物理学における基本的な概念で..."
+        },
+        "points": {
+          "exists": true,
+          "count": 7,
+          "meets_requirement": true
+        },
+        "transcription": {
+          "exists": true,
+          "is_placeholder": false,
+          "char_count": 547,
+          "meets_requirement": true
+        }
+      },
+      "completion_score": 91,
+      "issues": []
+    },
+    {
+      "title": "法則・原則の定義～価値観と原則の違い～",
+      "file": "【10の能力動画】法則・原則の定義～価値観と原則の違い～.md",
+      "checks": {
+        "frontmatter": {
+          "title": true,
+          "date": true,
+          "source_url": true,
+          "category": true,
+          "tags": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count": 165,
+          "meets_requirement": true,
+          "text_preview": "**「法則・原則の定義～価値観と原則の違い」**\n\n本動画では、法則と原則の定義、および価値観との違..."
+        },
+        "points": {
+          "exists": true,
+          "count": 7,
+          "meets_requirement": true
+        },
+        "transcription": {
+          "exists": true,
+          "is_placeholder": false,
+          "char_count": 205,
+          "meets_requirement": true
+        }
+      },
+      "completion_score": 91,
+      "issues": []
+    },
+    {
+      "title": "潜在意識の原則",
+      "file": "【10の能力動画】潜在意識の原則.md",
+      "checks": {
+        "frontmatter": {
+          "title": true,
+          "date": true,
+          "source_url": true,
+          "category": true,
+          "tags": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count": 106,
+          "meets_requirement": true,
+          "text_preview": "要約:\n潜在意識の原則は、意識の下層にある強大な力の働きを理解する法則です。潜在意識は論理ではなくイ..."
+        },
+        "points": {
+          "exists": true,
+          "count": 7,
+          "meets_requirement": true
+        },
+        "transcription": {
+          "exists": true,
+          "is_placeholder": false,
+          "char_count": 504,
+          "meets_requirement": true
+        }
+      },
+      "completion_score": 91,
+      "issues": []
+    },
+    {
+      "title": "無限大の原則",
+      "file": "【10の能力動画】無限大の原則.md",
+      "checks": {
+        "frontmatter": {
+          "title": true,
+          "date": true,
+          "source_url": true,
+          "category": true,
+          "tags": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count": 115,
+          "meets_requirement": true,
+          "text_preview": "要約:\n無限大の原則は、人間の可能性が本来無限であるという法則です。制限的な信念は自分たちで作り出し..."
+        },
+        "points": {
+          "exists": true,
+          "count": 7,
+          "meets_requirement": true
+        },
+        "transcription": {
+          "exists": true,
+          "is_placeholder": false,
+          "char_count": 515,
+          "meets_requirement": true
+        }
+      },
+      "completion_score": 91,
+      "issues": []
+    },
+    {
+      "title": "繰の原則",
+      "file": "【10の能力動画】繰の原則.md",
+      "checks": {
+        "frontmatter": {
+          "title": true,
+          "date": true,
+          "source_url": true,
+          "category": true,
+          "tags": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count": 110,
+          "meets_requirement": true,
+          "text_preview": "要約:\n繰の原則は、物事の発展には反復と循環が不可欠であるという法則です。一度の行動では変わらず、繰..."
+        },
+        "points": {
+          "exists": true,
+          "count": 7,
+          "meets_requirement": true
+        },
+        "transcription": {
+          "exists": true,
+          "is_placeholder": false,
+          "char_count": 469,
+          "meets_requirement": true
+        }
+      },
+      "completion_score": 91,
+      "issues": []
+    },
+    {
+      "title": "表裏一体の原則",
+      "file": "【10の能力動画】表裏一体の原則.md",
+      "checks": {
+        "frontmatter": {
+          "title": true,
+          "date": true,
+          "source_url": true,
+          "category": true,
+          "tags": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count": 246,
+          "meets_requirement": true,
+          "text_preview": "表裏一体の原則とは、あらゆる事象に必ずプラスとマイナスが同等の割合（50対50）で存在するという法則..."
+        },
+        "points": {
+          "exists": true,
+          "count": 8,
+          "meets_requirement": true
+        },
+        "transcription": {
+          "exists": true,
+          "is_placeholder": false,
+          "char_count": 1509,
+          "meets_requirement": true
+        }
+      },
+      "completion_score": 91,
+      "issues": []
+    },
+    {
+      "title": "道徳（決断）の原則",
+      "file": "【10の能力動画】道徳（決断）の原則.md",
+      "checks": {
+        "frontmatter": {
+          "title": true,
+          "date": true,
+          "source_url": true,
+          "category": true,
+          "tags": true
+        },
+        "summary": {
+          "exists": true,
+          "char_count": 240,
+          "meets_requirement": true,
+          "text_preview": "道徳（決断）の原則は「鏡の原則」とも呼ばれ、相手に与えたものが返ってくるという法則である。自分がした..."
+        },
+        "points": {
+          "exists": true,
+          "count": 7,
+          "meets_requirement": true
+        },
+        "transcription": {
+          "exists": true,
+          "is_placeholder": false,
+          "char_count": 423,
+          "meets_requirement": true
+        }
+      },
+      "completion_score": 91,
+      "issues": []
+    }
+  ],
+  "user_directive": "No unprocessed or ungenerated content should remain",
+  "compliance": true
+}
