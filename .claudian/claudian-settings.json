@@ -3,7 +3,7 @@
   "permissionMode": "yolo",
   "model": "haiku",
   "thinkingBudget": "off",
-  "effortLevel": "low",
+  "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -47,7 +47,8 @@
       "environmentVariables": "",
       "environmentHash": "",
       "installationMethodsByHost": {
-        "device:949494e0-7788-4b64-b29d-48b7d8f145da": "native-windows"
+        "device:949494e0-7788-4b64-b29d-48b7d8f145da": "native-windows",
+        "device:cdfc9152-69cd-438d-a0bf-2b9488816070": "native-windows"
       },
       "wslDistroOverridesByHost": {}
     },
@@ -81,7 +82,7 @@
     "claude": "haiku"
   },
   "savedProviderEffort": {
-    "claude": "low"
+    "claude": "high"
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},
