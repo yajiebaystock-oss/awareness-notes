@@ -1,11 +1,11 @@
----
+﻿---
 title: "【T2Sセミナー】目標設定と達成 ～SMART原則～（39_42）"
 date: 2026-06-25
 source_url: "https://www.awareness.co.jp/mypage/archives/study/239/507/6338"
 episode_id: 6338
 category: T2Sセミナー
 category_label: T2Sセミナー（Awareness）
-tags: [セミナー, 文字起こし, T2Sセミナー, T2S, 目標達成, 成功, 学習]
+tags: [セミナー, 文字起こし, T2Sセミナー, 目標設定, SMART, 達成, 自己啓発, 自己実現, 可能性, 人生設計]
 ---
 
 ## 要約

@@ -1,11 +1,11 @@
----
+﻿---
 title: "【T2Sセミナー動画】TEAM T2の目的と T2Sの目的（2/42）[15:01]"
 date: 2026-06-25
 source_url: "https://players.brightcove.net/6054371505001/hNf2KNmT85_default/index.html?videoId=6380235519112"
 lesson_id: lesson_6380235519112
 category: "T2Sセミナー"
 category_label: Feeling Now（Awareness）
-tags: [セミナー, 文字起こし, Feeling Now（Awareness）, T2S, 目標達成, 成功, 学習]
+tags: [セミナー, 文字起こし, T2Sセミナー, 幸さ, TEAM_T2, 自己啓発, 目的教育, 目的, T2S, チームビルディング]
 ---
 
 ## 要約
