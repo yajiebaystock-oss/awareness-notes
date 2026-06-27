@@ -1,6 +1,6 @@
 ---
 title: "【SLS】影響力と影響"
-date: 2026-06-27
+date: 2022-02-15
 source_url: "https://www.awareness.co.jp/mypage/archives/study/59/179"
 episode_id: 179
 category: "SLS"
