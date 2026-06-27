@@ -1,5 +1,5 @@
 ---
-title: "【HTP】HTPの目的② ～あなたの人生は何を計画?～（2/25）"
+title: "【HTP】あなたの人生は何を計画?（2_25）"
 date: 2026-06-27
 source_url: "https://www.awareness.co.jp/mypage/archives/study/146/282"
 episode_id: HTP_02

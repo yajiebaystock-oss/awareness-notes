@@ -1,5 +1,5 @@
 ﻿---
-title: "【HTP】第 [タイトル未確認]（22/25）"
+title: "【HTP】第 [タイトル未確認]（22_25）"
 date: 2026-06-27
 source_url: "https://www.awareness.co.jp/mypage/archives/study/146/282"
 episode_id: HTP_22

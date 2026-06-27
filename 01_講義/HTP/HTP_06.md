@@ -1,5 +1,5 @@
 ---
-title: "【HTP】そもそも時間とは③ ～時間の速さは人によって違う!?～（6/25）"
+title: "【HTP】時間の速さは人によって違う!?（6_25）"
 date: 2026-06-27
 source_url: "https://www.awareness.co.jp/mypage/archives/study/146/282"
 episode_id: HTP_06

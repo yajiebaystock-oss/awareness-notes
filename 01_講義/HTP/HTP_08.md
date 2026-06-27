@@ -1,5 +1,5 @@
 ---
-title: "【HTP】そもそも時間とは⑤ ～私たちはどこで時間を感じているのか?～（8/25）"
+title: "【HTP】私たちはどこで時間を感じているのか?（8_25）"
 date: 2026-06-27
 source_url: "https://www.awareness.co.jp/mypage/archives/study/146/282"
 episode_id: HTP_08

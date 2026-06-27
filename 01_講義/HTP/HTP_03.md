@@ -1,5 +1,5 @@
 ---
-title: "【HTP】HTPの目的③ ～学ぶ目的は幸せになるため～（3/25）"
+title: "【HTP】学ぶ目的は幸せになるため（3_25）"
 date: 2026-06-27
 source_url: "https://www.awareness.co.jp/mypage/archives/study/146/282"
 episode_id: HTP_03

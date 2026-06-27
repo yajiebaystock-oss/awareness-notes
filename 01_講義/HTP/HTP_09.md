@@ -1,5 +1,5 @@
 ---
-title: "【HTP】そもそも時間とは⑥ 量子力学を使って時間を管理しよう①（9/25）"
+title: "【HTP】量子力学を使って時間を管理しよう①（9_25）"
 date: 2026-06-27
 source_url: "https://www.awareness.co.jp/mypage/archives/study/146/282"
 episode_id: HTP_09

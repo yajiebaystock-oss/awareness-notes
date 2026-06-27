@@ -1,5 +1,5 @@
 ---
-title: "【HTP】HTPの目的④ もともも時間とは①（4/25）"
+title: "【HTP】そもそも時間とは①（4_25）"
 date: 2026-06-27
 source_url: "https://www.awareness.co.jp/mypage/archives/study/146/282"
 episode_id: HTP_04

@@ -1,5 +1,5 @@
 ---
-title: "【HTP】そもそも時間とは② ～学者、研究者の時間の捉え方～（5/25）"
+title: "【HTP】学者、研究者の時間の捉え方（5_25）"
 date: 2026-06-27
 source_url: "https://www.awareness.co.jp/mypage/archives/study/146/282"
 episode_id: HTP_05

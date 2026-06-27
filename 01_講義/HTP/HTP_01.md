@@ -1,5 +1,5 @@
 ---
-title: "【HTP】HTPの目的① ～あなたの学ぶ目的は何?～（1/25）"
+title: "【HTP】あなたの学ぶ目的は何?（1_25）"
 date: 2026-06-27
 source_url: "https://www.awareness.co.jp/mypage/archives/study/146/282"
 episode_id: HTP_01

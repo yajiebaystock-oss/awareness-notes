@@ -1,5 +1,5 @@
 ---
-title: "【HTP】そもそも時間とは④ ～なぜ楽しい時間は短く感じるのか?～（7/25）"
+title: "【HTP】なぜ楽しい時間は短く感じるのか?（7_25）"
 date: 2026-06-27
 source_url: "https://www.awareness.co.jp/mypage/archives/study/146/282"
 episode_id: HTP_07
