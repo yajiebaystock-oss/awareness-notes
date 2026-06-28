@@ -3,6 +3,9 @@
 .trash/
 .DS_Store
 
+# Claude Code sessions
+.claudian/sessions/
+
 # OS
 Thumbs.db
 *.swp
@@ -23,7 +26,6 @@ venv/
 .idea/
 
 # OS-specific
-.DS_Store
 ehthumbs.db
 
 # Temporary files
