@@ -1,22 +1,22 @@
 ---
-title: "awareness コーチングスクール"
-tags: [コーチング, awareness]
+title: "コーチングスクール（Coaching School）"
+tags: [コーチング, コーチングスクール, awareness]
 ---
 
-# awareness コーチングスクール
+# コーチングスクール（Coaching School）
 
-awareness.co.jp のサイトメニューに対応した講義ノート。
+awareness.co.jp のコーチングスクールサイトに対応した講義ノート。
 
 ## セクション一覧
 
 | メニュー | フォルダ |
 |--------|---------|
-| はじめに見よう | [[awareness/はじめに見よう/README]] |
-| 目的別コース | [[awareness/目的別コース/README]] |
-| コーチング＆解説 | [[awareness/コーチング＆解説/README]] |
-| エンパワーメントサロン | [[awareness/エンパワーメントサロン/README]] |
-| 認定コーチから学ぶ | [[awareness/認定コーチから学ぶ/README]] |
-| コーチングQ&A | [[awareness/コーチングQ&A/README]] |
-| セミナー動画 | [[awareness/セミナー動画/README]] |
-| ワンポイントレッスン | [[awareness/ワンポイントレッスン/README]] |
-| スペシャル動画（Coaching） | [[awareness/スペシャル動画（Coaching）/README]] |
+| はじめに見よう | はじめに見よう/ |
+| 目的別コース | 目的別コース/ |
+| コーチング＆解説 | コーチング＆解説/ |
+| エンパワーメントサロン | エンパワーメントサロン/ |
+| 認定コーチから学ぶ | 認定コーチから学ぶ/ |
+| コーチングQ&A | コーチングQ&A/ |
+| セミナー動画 | セミナー動画/ |
+| ワンポイントレッスン | ワンポイントレッスン/ |
+| スペシャル動画（Coaching） | スペシャル動画（Coaching）/ |
